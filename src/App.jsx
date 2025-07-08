@@ -7,22 +7,10 @@ import ListGroup from "./components/ListGroup";
 function App() {
   return (
     <div>
-
-      <ListGroup/>
-      Feat-1 Branch Changes
-
       <ListGroup />
-
-
-      Main Branch Change
-
-      Main branch Change 2
-
-      Hola Added..
-      
+      Feat-1 Branch Changes Main Branch Change Main branch Change 2 Hola Added..
       Feat-2 Branch Changing...
-
-
+      Feat-2 Branch pushed changes again...
     </div>
   );
 }
